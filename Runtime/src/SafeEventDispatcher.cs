@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assets.Scripts.Systems.Events
+namespace Sector0.Events
 {
     public class SafeEventDispatcher<T>
     {

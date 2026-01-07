@@ -1,6 +1,6 @@
 {
     "name": "sector0.SafeEventDispatcher",
-    "rootNamespace": "",
+    "rootNamespace": "Sector0",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
