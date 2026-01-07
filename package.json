@@ -1,0 +1,18 @@
+{
+    "name": "sector0.SafeEventDispatcher",
+    "version": "1.0.0",
+    "displayName": "Safe Event Dispatcher",
+    "description": "TODO",
+    "unity": "6000",
+    "unityRelease": "0b5",
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "Milorad Liviu Felix",
+        "email": "todo@example.com",
+        "url": "https://www.unity3d.com"
+    }
+}
